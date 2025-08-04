@@ -1,0 +1,9 @@
+# Aime多智能体框架原型 - 依赖列表
+openai>=1.0.0
+anthropic>=0.8.0
+langchain-core>=0.1.0
+pydantic>=2.0.0
+fastapi>=0.100.0
+uvicorn>=0.20.0
+python-dotenv>=1.0.0
+aiofiles>=23.0.0
